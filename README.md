@@ -3,7 +3,7 @@
 Car Rental UI is a **modern, responsive React frontend project** for a car rental platform.  
 It provides a clean UI to browse cars, view details, and simulate a rental-style experience.  
 This project focuses on **React-based UI development** and can be integrated with any backend API.
-
+ 
 ---
 
 ## 🌟 Features
